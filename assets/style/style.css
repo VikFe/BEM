@@ -1,13 +1,13 @@
 @font-face {
     font-weight: 700;
     font-family: "IntroBold";
-    src: url(../fonts/IntroBold.ttf);
+    src: local("IntroBold") url(assets/fonts/IntroBold.ttf) format("ttf");
 }
 
 @font-face {
     font-weight: 300;
     font-family: "RobotoSlab-Light";
-    src: url(../fonts/RobotoSlab-Light.ttf);
+    src: local("RobotoSlab-Light")url(assets/fonts/RobotoSlab-Light.ttf) format("ttf");
 }
 
 html
